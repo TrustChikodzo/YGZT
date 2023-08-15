@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Felix45/adopt-an-orphan.git"
+    "url": "git+https://trustchikodzo.github.io/YGZT/index.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Felix45/adopt-an-orphan/issues"
+    "url": "https://trustchikodzo.github.io/YGZT/index.issues"
   },
-  "homepage": "https://github.com/Felix45/adopt-an-orphan#readme",
+  "homepage": "https://trustchikodzo.github.io/YGZT/index.html",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
