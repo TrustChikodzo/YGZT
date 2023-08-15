@@ -38,7 +38,7 @@ const ourTeam = [
     username: ' ??',
     position: '??',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
-    picture: 'assets/images/yvette.jpg',
+    picture: 'assets/images/',
     alt: 'officer',
   },
 ];
